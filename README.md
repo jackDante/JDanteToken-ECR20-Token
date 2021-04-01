@@ -22,7 +22,7 @@ MetaMask
 * Decimals    : 18
 
 ## IMAGES:
-![alt text](https://github.com/jackDante/JDanteToken-ECR20-Token/edit/main/1.png)
+![alt text](https://github.com/jackDante/JDanteToken-ECR20-Token/blob/main/4.png)
 
 ## NOTE
 This project is uploaded also on https://ipfs.io/ipfs/Qmc7C5VhVoEBDFAdCqW7bQJ8tX1xnrUppxSbro4PUexrTS.
