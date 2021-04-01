@@ -21,7 +21,7 @@ MetaMask
 * Total supply: 100000000
 * Decimals    : 18
 
-## IMAGES:
+## SCREENSHOT: first transaction
 ![alt text](https://github.com/jackDante/JDanteToken-ECR20-Token/blob/main/4.png)
 
 ## NOTE
